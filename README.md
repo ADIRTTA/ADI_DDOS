@@ -1,7 +1,7 @@
 # ADI_DDOS
-DDos attack tool
+# DDos attack tool
 
-
+# Command 
 
 pkg update
 
