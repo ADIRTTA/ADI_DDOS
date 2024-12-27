@@ -2,7 +2,7 @@
 # DDos attack tool
 
 # Command 
-
+```bash
 pkg update
 
 pkg upgrade 
@@ -16,6 +16,9 @@ cd ADI_DDOS
 chmod +x *
 
 python3 ATTACK.py
+```
+# Password 
+- PASS : B.C.A.
 
 
 
